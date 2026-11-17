@@ -1,0 +1,17 @@
+# 厂商二进制与资料（版权/体积原因不入库）
+ControlCAN.dll
+*.dll
+*.rar
+*.zip
+
+# 厂商 PDF 资料
+*.pdf
+
+# 运行产物
+__pycache__/
+*.pyc
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
